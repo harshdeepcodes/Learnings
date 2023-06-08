@@ -30,3 +30,15 @@ is simply using plus with either variables or strings enquoted.
 - `x=x+1` and `x++` means the same. it's called Increment Expression.
 - `x=x-1` and `x--` means the same. it's called Decrement Expression.
 - `x+=2` or `x-=3` can be used to increment and decrement the value by other numbers rather than 1.
+
+# Functions
+
+### Defining a Function
+
+`function funcName() {
+      ...BODY...
+      }`
+### Calling a Function
+`funcName()`
+
+
