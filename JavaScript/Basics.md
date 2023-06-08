@@ -16,3 +16,5 @@ is simply using plus with either variables or strings enquoted.
 
 ### Length
 `<str>.length` will give the length of a string.
+### Slicing
+`<str>.slice(0,4)` will only print characters from index 0 to index 3 (index 4 i.e. STOP is not included).
