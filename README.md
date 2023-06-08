@@ -1,5 +1,7 @@
 # Learnings
 
+# Currently Learning: Java Script
+
 # Languages
 ## Scripting
-- [JavaScript](Java Script)
+- [Java Script](JavaScript)
