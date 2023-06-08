@@ -1,4 +1,4 @@
-# Currently Learning: Java Script
+**Currently Learning: Java Script**
 
 # Languages
 ## Scripting
