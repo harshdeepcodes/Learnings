@@ -2,4 +2,4 @@
 
 # Languages
 ## Scripting
-- Java
+- (Java Script)[JavaScript]
