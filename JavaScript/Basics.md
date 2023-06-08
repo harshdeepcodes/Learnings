@@ -26,3 +26,7 @@ is simply using plus with either variables or strings enquoted.
 
 # Numbers
 **The basic arithmetical operations are simply done by + - * /** just like python.
+
+- `x=x+1` and `x++` means the same. it's called Increment Expression.
+- `x=x-1` and `x--` means the same. it's called Decrement Expression.
+- `x+=2` or `x-=3` can is used to increment and decrement respectively.
