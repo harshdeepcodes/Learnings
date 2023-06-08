@@ -1,5 +1,3 @@
-# Learnings
-
 # Currently Learning: Java Script
 
 # Languages
