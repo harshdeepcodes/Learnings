@@ -21,5 +21,5 @@ is simply using plus with either variables or strings enquoted.
 `<str>.slice(0,4)` will only return characters from index 0 to index 3 (index 4 i.e. STOP is not included).
 
 ### Cases
-`<str>.toUpperCase()` will return UPPER CASE string.
-`<str>.toLowerCase()` will return lower case string.
+- `<str>.toUpperCase()` will return UPPER CASE string.
+- `<str>.toLowerCase()` will return lower case string.
