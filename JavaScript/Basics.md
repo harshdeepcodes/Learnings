@@ -23,3 +23,6 @@ is simply using plus with either variables or strings enquoted.
 ### Cases
 - `<str>.toUpperCase()` will return UPPER CASE string.
 - `<str>.toLowerCase()` will return lower case string.
+
+# Numbers
+**The basic arithmetical operations are simply done by + - * /** just like python.
