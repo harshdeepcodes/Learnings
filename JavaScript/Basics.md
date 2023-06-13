@@ -61,8 +61,15 @@ if ( ...CONDITION... ) {
 
 #### Comparators
 - `===` is EQUAL to
+- `==` is EQUAL to (disregarding the DATA TYPES)
 - `!==` is NOT EQUAL to
 - `>` is GREATER than
 - `<` is LESSER than
 - `>=` is GREATER OR EQUAL to
 - `<=` is LESSER OR EQUAL to
+
+#### Combinators
+
+- `&&` AND
+- `||` OR
+- `!` NOT
