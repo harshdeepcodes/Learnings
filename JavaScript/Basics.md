@@ -35,10 +35,34 @@ is simply using plus with either variables or strings enquoted.
 
 ### Defining a Function
 
-`function funcName() {
+```javascript
+function funcName() {
       ...BODY...
-      }`
+      }
+```
+      
 ### Calling a Function
 `funcName()`
 
+## Math Function
+- `Math.random()`  returns a floating-point, pseudo-random number in the range from 0 inclusive up to but not including 1.
 
+
+# Conditional Statements
+
+### if-else
+```javascript
+if ( ...CONDITION... ) {
+      ...IF BODY...
+} else {
+      ...ELSE BODY...
+}
+```
+
+#### Comparators
+- `===` is EQUAL to
+- `!==` is NOT EQUAL to
+- `>` is GREATER than
+- `<` is LESSER than
+- `>=` is GREATER OR EQUAL to
+- `<=` is LESSER OR EQUAL to
