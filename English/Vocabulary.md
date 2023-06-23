@@ -1,6 +1,6 @@
 ## dogmatic 
 
-**English:** inclined to lay down principles as incontrovertibly true
+**English:** inclined to lay down principles as incontrovertibly true <br>
 **Hindi:** अधीनतापूर्ण
 **Example:** She was known for her dogmatic opinions on politics.
 
